@@ -1,0 +1,68 @@
+body {
+ background-color: rgb(68, 133, 140);
+ color: rgb(83, 36, 153);
+ font-family: 'Playfair Display', serif;
+ font-size: 14px;
+ line-height: 1.2;
+ text-align: center
+}
+
+h1 {
+  color: red;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 14
+}
+h2 {
+  color: blue;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 14px
+}
+
+h3 {
+  color: rgb(3, 63, 3);
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+/*
+a:hover {
+  color: red;
+} */
+
+#linkedin-icon {
+  color: rgb(222, 44, 44);
+  font-size: 40px;
+}
+
+#linkedin-icon:hover {
+  color: rgb(92, 19, 19);
+}
+
+#github-icon {
+  color: rgb(44, 222, 216);
+  font-size: 40px;
+}
+
+#github-icon:hover {
+  color: rgb(45, 19, 92);
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.box {
+  background-color: azure;
+}
+
+.profile-image {
+  height:250px;
+  width: 250px;
+  border-radius: 50%;
+}
